@@ -1,5 +1,6 @@
 # reciclagi
 Projeto de cadastro de coletas de lixo reciclável
+Componente: Fabiana Oliveira de Souza
 
 Necessário:
 - Wampserver
