@@ -4,7 +4,7 @@ Componente: Fabiana Oliveira de Souza
 
 Necessário:
 - Wampserver
-- Congigurar apache
+- Configurar apache
 - VHOST
 - Instalação do Github
 - Instalar Laravel Framework 5
